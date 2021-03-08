@@ -23,5 +23,3 @@ flutter:
       android:
         package: com.namit.presentation_displays
         pluginClass: PresentationDisplaysPlugin
-      ios:
-        pluginClass: PresentationDisplaysPlugin
